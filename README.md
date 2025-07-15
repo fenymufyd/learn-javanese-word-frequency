@@ -1,7 +1,7 @@
 Learn Javanese (basa Jawa) and Javanese script (aksara Jawa) by memorizing them with Anki. Word frequency table also provided in .csv and .txt
 
 # How to install and learn?
-* Install Anki if you havent already
+* Install (Anki)[https://apps.ankiweb.net/] if you haven't already
 * Download the .apkg file
 * Drag and Drop the downloaded file into Anki or click File > Import top left window
 
